@@ -1,0 +1,223 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Google Pixel 6 Pro 5G",
+            "desc": "Introducing Pixel 6 Pro, the completely redesigned",
+            "price": 99499,
+            "color": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel Cinematic mode adds shallow depth of field and shifts focus automatically in your videos Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles, ProRes video, Smart HDR 4, Night mode, Apple ProRAW, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording A15 Bionic chip for lightning-fast performance Up to 22 hours of video playback Durable design with Ceramic Shield",
+            "image": "https://www.notebookcheck.net/fileadmin/_processed_/a/e/csm_Pixel_6_1_8_5e651e85d2.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone 13 Pro",
+            "desc": "Apple iPhone 13th generation",
+            "price": 119900,
+            "color": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel Cinematic mode adds shallow depth of field and shifts focus automatically in your videos Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles, ProRes video, Smart HDR 4, Night mode, Apple ProRAW, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording A15 Bionic chip for lightning-fast performance Up to 22 hours of video playback Durable design with Ceramic Shield",
+            "image": "https://m.media-amazon.com/images/I/71rswJs9W9L._SL1500_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "APPLE MACBOOK PRO ",
+            "desc": "Apple M1 Pro chip with 8‑core CPU ",
+            "price": 90990,
+            "color": "Apple M1 Pro or M1 Max chip for a massive leap in CPU, GPU and machine learning performance Up to 10-core CPU delivers up to 3.7x faster performance to fly through pro workflows quicker than ever Up to 32-core GPU with up to 13x faster performance for graphics-intensive apps and games 16-core Neural Engine for up to 11x faster machine learning performance Longer battery life, up to 17 hours Up to 64GB of unified memory so everything you do is fast and fluid Up to 8TB of super-fast SSD storage launches apps and opens files in an instant",
+            "image": "https://media.pocketnow.com/styles/small/public/2021-12/PBI%20Apple%20MacBook%20Pro%2014.png?itok=AuJVNriw"
+        },
+        {
+            "id": 4,
+            "name": "iPhone 12 pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 109900,
+            "color": "6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than any smartphone glass A14 Bionic chip, the fastest chip ever in a smartphone Pro camera system with 12MP Ultra Wide, Wide and Telephoto cameras;\n 4x optical zoom range; Night mode, Deep Fusion, Smart HDR 3, Apple ProRAW, 4K Dolby Vision HDR recording LiDAR Scanner for improved AR experiences,\n Night mode portraits 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording Industry-leading IP68 water resistance Supports MagSafe accessories for easy attach and faster wireless charging iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
+        },
+        {
+            "id": 5,
+            "name": "Apple AirPods Max",
+            "desc": "Apple-designed dynamic driver audio",
+            "price": 59900,
+            "color": "Active Noise Cancellation blocks outside noise, so you can immerse yourself in music Transparency mode for hearing and interacting with the world around you Spatial audio with dynamic head tracking provides theater-like sound that surrounds you Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional fit Magical experience with effortless setup, on-head detection, and seamless switching between devices",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-select-pink-202011?wid=470&hei=556&fmt=png-alpha&.v=1604022365000"
+        },
+        {
+            "id": 6,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 51490,
+            "color": "New, unlocked Android phone gives you the flexibility to change carriers and choose your own data plan; unlocked smartphone works with T-Mobile, Sprint, AT&T, Verizon, and other major carriers \n 5G capable smartphone gives you an extra boost of speed so you can download a movie in seconds, enjoy smooth streaming in ultra clear HD, play games at home and on the go, and even share your 5G speed with friends \n Charge your cell phone wirelessly or use it to wirelessly charge other Qi-certified devices The all day battery can last up to 48 hours with Extreme Battery Saver \n Your phone will automatically receive the latest OS and security updates for at least 3 years; [9] the custom-made Titan M chip helps secure the operating system and sensitive data, like passwords \n Take vibrant photos on your phone even in the dark with Night Sight, bring studio quality light to you pictures of people with Portrait Light, and get more scenery and people in the shot with the rear facing ultrawide lens \n Pixel 5 is a water resistant smart phone; the metal unibody can handle being submerged in 1.5 meters of fresh water for 30 minutes[10] With Call Screen, Google Assistant filters out detected spammers without interrupting you and provides helpful information about callers, you don’t recognize before you answer your phone \nWith HD Google Duo screen sharing, you can read articles, watch live sports, and video chat with friends and family \nPlease refer to the product description section below for all applicable legal disclaimers denoted by the bracketed numbers in the preceding bullet points",
+            "image": "https://www.telstra.com.au/content/dam/tcom/lego/2020/plans-devices/mobiles/google-pixel-5/shared-google-pixel-5-black-05-900x1200.png"
+        },
+        {
+            "id": 7,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 109490,
+            "color": "All-Day Battery Life – Go longer than ever with up to 18 hours of battery life. Powerful Performance – Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power. Superfast Memory – 8GB of unified memory makes your entire system speedy and responsive. That way it can support tasks like memory-hogging multitab browsing and opening a huge graphic file quickly and easily. Stunning Display – With a 13.3-inch/33.74 cm Retina display, images come alive with new levels of realism. Text is sharp and clear, and colors are more vibrant. Why Mac – Easy to learn. Easy to set up. Astoundingly powerful. Intuitive. Packed with apps to use right out of the box. Mac is designed to let you work, play, and create like never before. Simply Compatible – All your existing apps work, including Adobe Creative Cloud, Microsoft 365, and Google Drive. Plus you can use your favorite iPhone and iPad apps directly on macOS. Altogether you’ll have access to the biggest collection of apps ever for Mac. All available on the App Store. Easy to Learn – If you already have an iPhone, MacBook Air feels familiar from the moment you turn it on. And it works perfectly with all your Apple devices. Use your iPad to extend the workspace of your Mac, answer texts and phone calls directly on your Mac, and more. Fanless Design – Your MacBook Air stays cool and runs quietly even while tackling intense workloads. AppleCare – Every Mac comes with a one-year limited warranty and up to 90 days of complimentary technical support. Get AppleCare+ to extend your coverage and reduce the stress and cost of unexpected repairs. Environmentally Friendly – MacBook Air is made with a 100% recycled aluminum enclosure and uses less energy for a smaller carbon footprint.",
+            "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP825/macbookair.png"
+        },
+        {
+            "id": 8,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 49990,
+            "color": "The PS5 console unleashes new gaming possibilities that you never anticipated. Experience lightning fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback, adaptive triggers, and 3D Audio, and an all-new generation of incredible PlayStation games. ",
+            "image": "https://i1.wp.com/freepngimages.com/wp-content/uploads/2020/07/Playstation-5-games-console-transparent-background-png-image.png?fit=1000%2C1000"
+        },
+        {
+            "id": 9,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 24900,
+            "color": "Active noise cancellation for immersive sound Transparency mode for hearing and connecting with the world around you Three sizes of soft, tapered silicone tips for a customisable fit Sweat and water resistant Adaptive EQ automatically tunes music to the shape of your ear Easy setup for all your Apple devices Quick access to Siri by saying “Hey Siri” The wireless charging case delivers more than 24 hours of battery life",
+            "image": "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
+        },
+        {
+            "id": 10,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 71900,
+            "color": "Apple M1 chip for next-level performance Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color TrueDepth camera system featuring Ultra Wide front camera with Center Stage 12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR Stay connected with ultrafast Wi-Fi and 4GLTE Go further with all-day battery life Thunderbolt port for connecting to fast external storage, displays, and docks Face ID for secure authentication Four speaker audio and five studio-quality microphones Support for Apple Pencil (2nd generation), Magic Keyboard, and Smart Keyboard Folio",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
+        },
+        {
+            "id": 11,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 105999,
+            "color": "PRO-GRADE CAMERA: Zoom in close with 100X Space Zoom, and take photos and videos like a pro with our easy-to-use, multi-lens camera. SHARP 8K VIDEO: Capture your life’s best moments in head-turning, super-smooth, cinema quality 8K Video. MULTIPLE WAYS TO RECORD: Create share-ready videos and GIFs with multi-cam recording and automatic, professional-style effects. HIGHER RESOLUTION, 100X ZOOM: Get amazing clarity with a dual lens combo of 3X and 10X optical zoom and revolutionary 100X Space Zoom. ALL DAY INTELLIGENT BATTERY: Intuitively manages your cellphone’s usage, so you can go all day without charging. POWER OF 5G: Experience next-generation connectivity for everything you love to do: more sharing, more gaming, more experiences. Battery power consumption depends on usage patterns and results may vary. Devices will work on any compatible network. Wireless voice, data and messaging services are compatible with most GSM networks such as AT&T and T-Mobile and CDMA networks such as Verizon, Sprint and US Cellular .",
+            "image": "https://m.media-amazon.com/images/I/81kfA-GtWwL._SL1500_.jpg"
+        },
+        {
+            "id": 12,
+            "name": "ASUS ROG Zephyrus G14",
+            "desc": "Ryzen 7 4800HS, GTX 1660Ti Max",
+            "price": 139990,
+            "color": "Processor: AMD Ryzen 7 4800HS Processor, 2.9 GHz (8MB Cache, up to 4.2 GHz, 8 Cores, 16 Threads) Access to over 100 high-quality PC games on Windows 10 One-month subscription to Xbox Game Pass that’s included with the purchase of your device Software Included: Pre-installed MS Office Home and Student 2019 | Operating System: Pre-loaded Windows 10 Home (64bit) with lifetime validity Memory: 16GB (2x 8GB) DDR4 3200MHz Dual-Channel RAM, Upgradeable up to 24GB using 1x SO-DIMM Slot with | Storage: 1TB M.2 NVMe PCIe 3.0 SSD..",
+            "image": "https://m.media-amazon.com/images/I/71zNU5UBINL._AC_SL1500_.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Mi 11 Ultra 5G",
+            "desc": "12Gb+256Gb, Ceramic White",
+            "price": 69999,
+            "color": "Camera: All-new Triple Primary Camera, 50 MP TrμePixel Custom GN2 Sensor + OIS, 48MP Sony IMX586 Ultra-wide Camera, 48MP Periscope 120x Telephoto Camera + OIS | 8K Across All Lenses | 20 MP Front Camera Display: Main Display - 17.29cm (6.81\") 120Hz WQHD+/2K+ E4 AMOLED Display, 10-Bit Display Tech, 1700nits peak brightness, HDR 10+, Dolby Vision, Sound By Harman/Kardon | Rear Display - 2.79cm (1.1\") Viewfinder Dual Touch Display Processor: Qualcomm Snapdragon 888 5G, Adreno 660 GPU - 35% Faster Graphics Rendering, Wi-Fi 6E (Additional 6GHz Band Support), Three Phase Cooling Tech | Fast & Smooth MIUI Experience Battery: 67W Wired & Wireless Instant Charge, 10W Reverse Wireless Charging, 5000mAh Ultra-Power Battery. | In box - 55W wired charger Design: Corning Gorilla Glass Victus, Modern Ceramic Back, Quad Curved Display, IP68 Waterproof Memory, Storage & SIM: 12GB LPDDR5 RAM | 256GB UFS 3.1 storage",
+            "image": "https://seller.shoponn.in/Item/Mi%2011%20Ultra%205G%2012GB%20256GB%20Ceramic%20White%20A.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Acer Nitro 5 i5 gen11",
+            "desc": "Light Gaming Laptop",
+            "price": 89999,
+            "color": "Processor: Intel Core i5-9300H processor, turbo up to 4.10 GHz Storage: 1TB HDD + 256GB SSD Display: 15.6\" IPS (In-Plane Switching) technology, Full HD 1920 x 1080, Acer ComfyView LED-backlit TFT LCD Memory: 8GB DDR4 Ram  Graphics: NVIDIA GeForce GTX 1650 with 4 GB of Dedicated GDDR5 VRAM Graphics",
+            "image": "https://m.media-amazon.com/images/I/71QXJg8uOCL._SL1500_.jpg"
+        },
+        {
+            "id": 15,
+            "name": "OnePlus 9 5G",
+            "desc": "12Gb+256Gb, Ceramic White",
+            "price": 54999,
+            "color": "Rear Triple Camera Co-Developed by Hasselblad, 48 MP Main camera, 50 MP Ultra Wide Angle Camera with Free Form Lens, 2 MP Monochorme Lens. Also comes with a 16 MP Front Camera Qualcomm Snapdragon 888 Processor with Adreno 660 GPU 6.55 Inches Fluid AMOLED Display with 120Hz refresh rate OnePlus Oxygen OS based on Andriod 11 Comes with 4500 mAh Battery with 65W Wired Charging",
+            "image": "https://m.media-amazon.com/images/I/61fy+u9uqPL._SL1500_.jpg"
+        },
+        {
+            "id": 16,
+            "name": "ASUS ROG PHONE 5",
+            "desc": "The ROG Phone 5 Ultimate",
+            "price": 79999,
+            "color": "The ROG Phone 5 Ultimate has minimal bezels on the top and bottom and is slightly longer than the previous generation. The ROG Phone 5 Ultimate has a metal-glass construction measuring 10.29 millimetres in thickness and weighs 238 grams. Asus ROG Phone 5 Ultimate features 6.78-inch Full HD+ (2448 x 1080 pixels) resolution display that uses an AMOLED panel sourced from Samsung. The screen supports up to 144Hz refresh rate, 300Hz touch sampling rate and offers upto 1200nits brightness. The Asus ROG Phone 5 Ultimate is powered by the Qualcomm Snapdragon 888 processor with an octa-core CPU running at upto 2.84GHz with Adreno 660 GPU. This is paired with a massive 18GB of RAM. It runs on Android 11 based ROG UI out-of-the-box. The ROG Phone 5 Ultimate has triple cameras on the back headlined by a 64MP primary camera based on an IMX686 sensor with an f/1.8 aperture, a 13MP ultra-wide-angle camera with 125-degree field-of-view and a 5MP macro camera.",
+            "image": "https://fdn2.gsmarena.com/vv/pics/asus/asus-rog-phone-5-1.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Acer Aspire 7 ",
+            "desc": "AMD Ryzen 5 Hexa Core 5500U",
+            "price":  54990,
+            "color": "This laptop packs a punch in terms of performance as it comes with an AMD Ryzen 5500U processor and NVIDIA GeForce GTX 1650 graphics processor. It Features a 39.62 cm (15.6) Full HD LED Backlit screen, with an 81.61% screen-to-body ratio, which offers clean and detailed visuals, irrespective of whether you're playing games, creating a presentation, or watching videos. This laptop comes with a dual-band Wi-Fi 6 (802.11ax) connectivity that helps offer up to three times enhanced network throughput and reduced latency by up to 75% when compared to its predecessor, the Wi-Fi 5 (802.11ac) standard. Along with the USB Type-C port, this laptop also comes with one USB 2.0 port and two SuperSpeed USB 5 Gbps Type-A ports (one of these can be used for offline charging). This laptop features a stylish and professional design that is sure to grab the attention of people whenever you take it out of your bag. Moreover, its backlit keyboard helps you work comfortably even in dimly lit environments..",
+            "image": "https://m.media-amazon.com/images/I/31cn3irdgmL.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Galaxy S21 5G",
+            "desc": "Samsung Galaxy S21 2021 5G edition",
+            "price": 64999,
+            "color": "Triple rear camera setup- Main Camera 12MP Dual Pixel + Ultra Wide 12MP Camera + Tele1 3X 64MP Camera | 10MP front Dual Pixel Camera (6.2-inch) Dynamic AMOLED 2X Display, FHD+ resolution with 2400 X 1080 pixels resolution, 421 PPI with 16M colours 8GB RAM | 128GB internal Storage | Dual SIM (nano+nano) dual-standby (5G+5G) Android Pie v10.0 operating system with 2.9GHz Exynos 2100 octa core processor 4000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+            "image": "https://m.media-amazon.com/images/I/91C0EYR0q5L._SL1500_.jpg"
+        },
+        {
+            "id": 19,
+            "name": "MSI GL66 ",
+            "desc": "Intel Core i7-11800H",
+            "price": 119990,
+            "color": "Visual Performance: The 15.6” 144hz display delivers true-to-life images with a high refresh rate so you can see every frame of the game. Redefined Power: The 11th Gen. Intel Core i7 processor, delivers high performance to take on any games and applications with ease. Supercharged Graphics: The MSI GL66 is powered by NVIDIA GeForce RTX, take on today's most popular games with these performance graphics. On the Go Gaming: Designed to be thin and light for gamers to carry around every day for games, study, or work. Cool and Powerful: MSI’s exclusive Cooler Boost Technology ensures optimal thermal dissipation. Featuring state of the art fans and heat pipes, get the airflow you need for gaming. Customized Keys: Customize each key to your liking and receive real-time in-game status through keyboard lighting, or even watch the lights dance to your favorite tune. Product GPU is 85W...",
+            "image": "https://m.media-amazon.com/images/I/61Ze2wc9nyS._AC_SL1500_.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Galaxy Tab S6 Lite",
+            "desc": "Samgung Tab",
+            "price": 33899,
+            "color": "Visual Performance: The 15.6” 144hz display delivers true-to-life images with a high refresh rate so you can see every frame of the game. Redefined Power: The 11th Gen. Intel Core i7 processor, delivers high performance to take on any games and applications with ease. Supercharged Graphics: The MSI GL66 is powered by NVIDIA GeForce RTX, take on today's most popular games with these performance graphics. On the Go Gaming: Designed to be thin and light for gamers to carry around every day for games, study, or work. Cool and Powerful: MSI’s exclusive Cooler Boost Technology ensures optimal thermal dissipation. Featuring state of the art fans and heat pipes, get the airflow you need for gaming. Customized Keys: Customize each key to your liking and receive real-time in-game status through keyboard lighting, or even watch the lights dance to your favorite tune. Product GPU is 85W...",
+            "image": "https://m.media-amazon.com/images/I/71gK4y87OQL._SL1500_.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Galaxy Tab S7",
+            "desc": "Samsung Tab",
+            "price": 49999,
+            "color": "12.4-inch(31.5 Centimeter) , Super AMOLED Display, upto 120 Hz, Resolution 2800 x 1752 (WQXGA+ ) ,SGS Certification (Low Blue Light for Eye Care) Dual Rear Camera : 13 MP+5 MP with Flash, Front Camera : 8MP 10,090 mAh battery with 45W Type-C fast charger in the box 6GB RAM, 128GB Storage, with new Qualcomm SDM865 Pro, Octa-Core processor Quad Speakers - AKG Dolby Atmos Fingerprint Authentication 1 year manufacturer warranty for Phone and 6 months warranty for in the box accessories...",
+            "image": "https://m.media-amazon.com/images/I/81+oYn-IDRL._SL1500_.jpg"
+        },
+        
+        {
+            "id": 22,
+            "name": "Xbox Series S ",
+            "desc": "512GB",
+            "price":  34990,
+            "color": "Go all-digital and enjoy disc-free, next-gen gaming with the smallest Xbox console ever made. Experience next-gen speed and performance with the Xbox velocity architecture, powered by a custom SSD and integrated software. Play thousands of digital games from four generations of Xbox with backward compatibility, including optimized titles at launch....",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSrnxO1qX9Ir4TNQthCHyofIvH8wgqi38yzV5ZzKO45-A_neFzzOmLWgKx0ITfaoPASSNlWM9zbXpidnvB-cMbNK7ygFJeWDQ&usqp=CAY"
+        },
+        {
+            "id": 23,
+            "name": "Tab P11 Pro",
+            "desc": "Lenovo Tab",
+            "price": 41999,
+            "color": "11.5 inch OLED display with 2560*1600 resolution and 500 nits brightness with TUV certified eye protection and Dolby Vision| Netflix HD certified Aluminum alloy unibody | 5.8 mm thin | 485 gm light | 4-side narrow bezel | 87% screen-to-display ratio Android 10 operating system upgradable to Android 11| Qualcomm Snapdragon 730G octa-core processor | 6 GB RAM | 128 GB memory expandable to 1 TB | 8600 mAh battery | 15 hours video playback time Quad JBL user-facing speakers | Dolby Atmos | Smart face unlocking |Fingerprint Scanner| Video calls with background blur 13+5 MP dual rear camera and 8+8 MP front camera 1 year manufacturer warranty on device...",
+            "image": "https://www.lenovo.com/medias/lenovo-tab-p11-pro-subseries-hero.png?context=bWFzdGVyfHJvb3R8MjMxODkxfGltYWdlL3BuZ3xoZDIvaGY1LzExMTAxMzUwMzYzMTY2LnBuZ3w2NzRiZjA0NGNjNzBiNTIxYmM3NjEzNWFjYTNjZTQ2ZGE5NDQ2NTc3MDE1YjQzMTQ5NTUyMWJiODRlM2JlZWE4"
+        },
+        {
+            "id": 24,
+            "name": "Jabra Elite 85t",
+            "desc": "Top-tier sound and noise cancellation",
+            "price": 10999,
+            "color": "Uninterrupted calls and music: Jabra Advanced Active Noise Cancellation gives you full sound control with an adjustable ANC slider combined with 6 built-in microphones for crystal clear calls Powerful speakers combined with voice assistant: 12 mm speakers deliver clear audio with strong bass for an impressive music experience - Works with Siri and Google Assistant Longlasting rechargeable battery: Get up to 5.5 hours of battery time with ANC on, and up to a total of 25 hours with the charging case - Use without ANC for up to 31 hours with the case, Microphone bandwidth - 100 Hz to 10 kHz A fit like never before: Compact size with three sizes of oval EarGels and pressure relief vents for maximum all-day comfort , Right earbud being the master bud , can be operated with high efficiency Scope of delivery: Jabra Elite 85t earbuds, wireless charging case, USB-C charging cable, 3 sets of oval silicon eargels – Weight: Earbuds 7 g each, charging cradle 45.1 g – Colour: Titanium black Product comes with a 2 year warranty - registration required 2 Year Warranty...",
+            "image": "https://m.media-amazon.com/images/I/51ZwzwirJmS._SL1189_.jpg"
+        },
+        {
+            "id": 25,
+            "name": "CANON SLR 850D",
+            "desc": "SLR Camera EOS",
+            "price": 85999,
+            "color": "24.1-megapixel APS-C CMOS sensor + 4K video recording All cross-type 45-point AF (viewfinder) and Dual Pixel CMOS AF (Live View) Wi-Fi connectivity + user-friendly ergonomics and interface Dual Pixel CMOS AF Eye and Face Detection High-speed Continuous Shooting Score with High Quality Photos and Videos...",
+            "image": "https://m.media-amazon.com/images/I/51mAk6n4O+L._SL1000_.jpg"
+        },
+        {
+            "id": 26,
+            "name": "realme Wireless 2",
+            "desc": "Bluetooth in Ear Earphones",
+            "price": 2399,
+            "color": "Frequency Response 20Hz-20KHz USB Type-C Fast Charging (10mins Charge for 120mins Playback) and up to 17 hours Total Playback (at 50% volume). 11.2mm Dynamic Bass Boost Driver that give deep and punchy bass experience Multi-Device Switching with Magnetic Instant Connection that also enables Auto ON/OFF for seamless audio connection ENC (Environment Noise Cancellation) for Crystal clear Calls IPX4 Water Resistant...",
+            "image": "https://m.media-amazon.com/images/I/61+3f5q7T6S._SL1500_.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Fujifilm Instax Mini 9",
+            "desc": "Instant Camera (Ice Blue)",
+            "price": 7799,
+            "color": "New Selfie Mirror and close-up lense attachment for perfect selfies; Produces instant credit card size photos ; Focusing: 0.6m - ∞ ; Auto power off time: 5 min ; Power Supply: Two AA-size 1.5V alkaline batteries Capacity: 100 shots(Approximately 10 instax mini film packs with new AA batteries) ; Film Feeding out: Automatic Built-in Flash and Automatic exposure Measurement: The camera signals the recommended aperture setting with a flashing LED. This helps capture the perfect photo every time High-Key mode : Take brighter pictures with a soft look - perfect for portraits; Viewfinder-Real image finder, 0.37x, with target spot Uses Instax Mini Film, print size 54 (w) x 86 (H)mm, image size 46 (w) x 62 (H)mm instax mini 9 camera - Smoky white instant camera, Hand Strap, Close-up Lens Attachment, AA Batteries x2, Instruction Manual and 1 year manufacturer warranty for camera New Selfie Mirror and close-up lense attachment for perfect selfies; Produces instant credit card size photos Built-in Flash and Automatic exposure Measurement: The camera signals the recommended aperture setting with a flashing LED. This helps capture the perfect photo every time...",
+            "image": "https://m.media-amazon.com/images/I/715O2uXotoL._SL1500_.jpg"
+        }
+
+
+    ]
+} 

@@ -1,4 +1,4 @@
-# store_application
+# Flagship
 
 A new Flutter project.
 
